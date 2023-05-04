@@ -1,0 +1,5 @@
+-- Introducing window functions 
+-- Perform aggregate operations on groups of rows, but they produce
+-- a result for each row. All rows will show up but the window will show on 
+-- a different column. GROUP BY will group all the same rows/values and colapses 
+-- them into a single row 
